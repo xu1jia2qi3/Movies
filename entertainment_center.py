@@ -11,7 +11,7 @@ Wings_of_Liberty = media.Movie("StarCraft II: Wings of Liberty",
 Heart_of_the_Swarm = media.Movie("StarCraft II: Heart of the Swarm",
                                  "Heart of the Swarm is a sequel"
                                  "to Wings of Liberty.",
-                                 "http://stuffpoint.com/science-fiction/image/348357-science-fiction-starcraft-ii-heart-of-the-swarm-wallpaper.jpg",  # NOQA
+                                 "https://d3tg06jbotvai2.cloudfront.net/game_tetiere/img/heart-of-the-swarm-img4.jpg",  # NOQA
                                  "https://www.youtube.com/watch?v=MVbeoSPqRs4")
 # 3rd movie
 Legacy_of_the_Void = media.Movie("StarCraft II: Legacy of the Void",
